@@ -1,4 +1,4 @@
-import CreateQuiz from "../components/CreateQuiz";
+import CreateQuiz from "../components/CreateQuiz.jsx";
 import QuizCard from "../components/QuizCard";
 
 const Home = () => {
